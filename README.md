@@ -9,7 +9,13 @@
 </div>
 
 
-![Profile views](https://komarev.com/ghpvc/?username=xavki&label=Profile%20views&color=0e75b6&style=flat)
+<p align="center"> 
+  ![Profile views](https://komarev.com/ghpvc/?username=xavki&label=Profile%20views&color=0e75b6&style=flat)
+	<!---
+		<a href = "https://commits.top/egypt.html" target="_blank">
+			<img src="https://aktive.tk/egypt/7oSkaaa?color=red" alt="Most Active Users" target="_blank" height=25px, width=250px/> 
+		</a>
+</p>
 
 
 <!--
