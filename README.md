@@ -8,10 +8,8 @@
 
 </div>
 
-
-<p align="center"> 
 ![Profile views](https://komarev.com/ghpvc/?username=xavki&label=Profile%20views&color=0e75b6&style=flat)
-</p>
+
 
 
 <!--
