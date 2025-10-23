@@ -9,6 +9,9 @@
 </div>
 
 
+![Profile views](https://komarev.com/ghpvc/?username=xavki&label=Profile%20views&color=0e75b6&style=flat)
+
+
 <!--
 **xavki/Xavki** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
