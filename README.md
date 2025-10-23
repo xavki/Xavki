@@ -4,7 +4,7 @@
 <div align="center">
 
 <!-- Subtítulo animado que rota entre dos frases -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&pause=1200&center=true&vCenter=true&width=700&color=F7D747&lines=Desarrollador+Multiplataforma+Junior;IA+Generativa)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&pause=1200&center=true&vCenter=true&width=700&color=F7D747&lines=Junior+Multiplataform+Developer;IA+Generative)](https://git.io/typing-svg)
 
 </div>
 
