@@ -119,6 +119,7 @@
   <a href="https://github.com/xavki/Portfolio-Web">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=xavki&repo=Portfolio-Web&theme=tokyonight" alt="Portfolio Web" />
   </a>
+![Metrics](https://github.com/xavki/xavki/blob/main/github-metrics.svg)
 
 
   </p>
