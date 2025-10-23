@@ -1,33 +1,33 @@
-name: 🧠 Update GitHub Stats & Repos
+name: 🧠 Update GitHub Metrics
 
 on:
   schedule:
-    - cron: "0 9 * * 1"   # se ejecuta cada lunes a las 9:00 UTC
-  workflow_dispatch:       # también podrás ejecutarlo manualmente desde la pestaña "Actions"
+    - cron: "0 9 * * 1"   # lunes 09:00 UTC
+  workflow_dispatch:
 
 jobs:
-  build:
+  metrics:
     runs-on: ubuntu-latest
+    permissions:
+      contents: write   # 👈 necesario para escribir en el repo
 
     steps:
-      - name: Checkout repository content
-        uses: actions/checkout@v4
-
-      - name: Generate GitHub Metrics
+      - name: Generate metrics
         uses: lowlighter/metrics@latest
         with:
-          # ⚙️ CONFIGURACIÓN BÁSICA
-          token: ${{ secrets.METRICS_TOKEN }}
+          # --- Autenticación ---
+          token: ${{ secrets.METRICS_TOKEN }}             # para leer tus datos
+          committer_token: ${{ secrets.METRICS_TOKEN }}   # 👈 usa TU PAT para hacer el commit
+          committer_branch: main                          # rama destino
+          # --- Config básica ---
           user: xavki
           template: classic
           base: header, activity, community, repositories, metadata
           config_timezone: Europe/Madrid
+          # --- Plugins que quieras ---
           plugin_languages: yes
-          plugin_stars: yes
-          plugin_repositories: 4
-          plugin_lines: yes
           plugin_achievements: yes
-          plugin_notable: yes
-          plugin_followup: yes
-          plugin_activity: yes
-          plugin_topics: yes
+          plugin_repositories: yes
+          # --- Salida ---
+          filename: github-metrics.svg
+          output_action: commit                           # escribe directamente el archivo
