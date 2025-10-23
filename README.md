@@ -91,6 +91,49 @@
 
 </details>
 
+<details><summary><h3>📁 My Repositories</h3></summary>
+
+----
+
+<div align="center">
+  <p>
+
+  <!-- 🔹 Ejemplo 1 -->
+  <a href="https://github.com/xavki/Portfolio-Web">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=xavki&repo=Portfolio-Web&theme=tokyonight" alt="Portfolio Web" />
+  </a>
+
+  <!-- 🔹 Ejemplo 2 -->
+  <a href="https://github.com/xavki/Android-Notes-App">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=xavki&repo=Android-Notes-App&theme=tokyonight" alt="Android Notes App" />
+  </a>
+
+  <!-- 🔹 Ejemplo 3 -->
+  <a href="https://github.com/xavki/Java-Projects">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=xavki&repo=Java-Projects&theme=tokyonight" alt="Java Projects" />
+  </a>
+
+  <!-- 🔹 Ejemplo 4 -->
+  <a href="https://github.com/xavki/Docker-Labs">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=xavki&repo=Docker-Labs&theme=tokyonight" alt="Docker Labs" />
+  </a>
+
+  <!-- 🔹 Ejemplo 5 -->
+  <a href="https://github.com/xavki/SQL-Practice">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=xavki&repo=SQL-Practice&theme=tokyonight" alt="SQL Practice" />
+  </a>
+
+  <!-- 🔹 Ejemplo 6 -->
+  <a href="https://github.com/xavki/AI-Playground">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=xavki&repo=AI-Playground&theme=tokyonight" alt="AI Playground" />
+  </a>
+
+  </p>
+</div>
+
+</details>
+
+
 
 ## 🐍 A Snake Eating my Contributions Graph
 	
