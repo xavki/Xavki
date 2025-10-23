@@ -31,6 +31,9 @@
 </p>
 
 
+## <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Statistics.gif?raw=true" width = 50px>  </picture> Github Stats
+
+
 <!--
 **xavki/Xavki** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
