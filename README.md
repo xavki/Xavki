@@ -122,9 +122,6 @@
 
   </p>
 
-  <!-- 🧠 Metrics summary -->
-  <img src="https://github.com/xavki/xavki/blob/main/github-metrics.svg" alt="GitHub Metrics" width="90%"/>
-
 </div>
 
 </details>
