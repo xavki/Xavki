@@ -110,30 +110,23 @@
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=xavki&repo=Jocs&theme=tokyonight" alt="Jocs" />
   </a>
 
-  <!-- 🔹 Ejemplo 3 -->
-  <a href="https://github.com/xavki/Java-Projects">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=xavki&repo=Java-Projects&theme=tokyonight" alt="Java Projects" />
+  <!-- 🔹 Reproductor de música -->
+  <a href="https://github.com/xavki/reproductor-de-musica">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=xavki&repo=reproductor-de-musica&theme=tokyonight" alt="Reproductor de música" />
   </a>
 
-  <!-- 🔹 Ejemplo 4 -->
-  <a href="https://github.com/xavki/Docker-Labs">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=xavki&repo=Docker-Labs&theme=tokyonight" alt="Docker Labs" />
+  <!-- 🔹 Portfolio Web -->
+  <a href="https://github.com/xavki/Portfolio-Web">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=xavki&repo=Portfolio-Web&theme=tokyonight" alt="Portfolio Web" />
   </a>
 
-  <!-- 🔹 Ejemplo 5 -->
-  <a href="https://github.com/xavki/SQL-Practice">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=xavki&repo=SQL-Practice&theme=tokyonight" alt="SQL Practice" />
-  </a>
-
-  <!-- 🔹 Ejemplo 6 -->
-  <a href="https://github.com/xavki/AI-Playground">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=xavki&repo=AI-Playground&theme=tokyonight" alt="AI Playground" />
-  </a>
 
   </p>
 </div>
 
 </details>
+
+
 
 
 
