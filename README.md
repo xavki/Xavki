@@ -100,7 +100,7 @@
 <div align="center">
   <p>
 
- <!-- 🔹 X-O-Agenda -->
+  <!-- 🔹 X-O-Agenda -->
   <a href="https://github.com/xavki/X-O-Agenda">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=xavki&repo=X-O-Agenda&theme=tokyonight" alt="X-O-Agenda" />
   </a>
@@ -115,14 +115,16 @@
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=xavki&repo=reproductor-de-musica&theme=tokyonight" alt="Reproductor de música" />
   </a>
 
-   <!-- 🔹 Portfolio Web -->
+  <!-- 🔹 Portfolio Web -->
   <a href="https://github.com/xavki/Portfolio-Web">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=xavki&repo=Portfolio-Web&theme=tokyonight" alt="Portfolio Web" />
   </a>
-![Metrics](https://github.com/xavki/xavki/blob/main/github-metrics.svg)
-
 
   </p>
+
+  <!-- 🧠 Metrics summary -->
+  <img src="https://github.com/xavki/xavki/blob/main/github-metrics.svg" alt="GitHub Metrics" width="90%"/>
+
 </div>
 
 </details>
