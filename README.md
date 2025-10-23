@@ -137,6 +137,9 @@
 	<img src = "https://github.com/7oSkaaa/7oSkaaa/blob/output/github-contribution-grid-snake.svg?" alt = "Snake Game"/>
 </p>
 
+![Metrics](https://github.com/xavki/xavki/blob/main/github-metrics.svg)
+
+
 <!--
 **xavki/Xavki** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
