@@ -91,6 +91,8 @@
 
 </details>
 
+---
+
 <details><summary><h3>📁 My Repositories</h3></summary>
 
 ----
@@ -98,14 +100,14 @@
 <div align="center">
   <p>
 
-  <!-- 🔹 Ejemplo 1 -->
-  <a href="https://github.com/xavki/Portfolio-Web">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=xavki&repo=Portfolio-Web&theme=tokyonight" alt="Portfolio Web" />
+ <!-- 🔹 X-O-Agenda -->
+  <a href="https://github.com/xavki/X-O-Agenda">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=xavki&repo=X-O-Agenda&theme=tokyonight" alt="X-O-Agenda" />
   </a>
 
-  <!-- 🔹 Ejemplo 2 -->
-  <a href="https://github.com/xavki/Android-Notes-App">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=xavki&repo=Android-Notes-App&theme=tokyonight" alt="Android Notes App" />
+  <!-- 🔹 Jocs -->
+  <a href="https://github.com/xavki/Jocs">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=xavki&repo=Jocs&theme=tokyonight" alt="Jocs" />
   </a>
 
   <!-- 🔹 Ejemplo 3 -->
