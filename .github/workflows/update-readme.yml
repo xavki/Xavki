@@ -1,0 +1,33 @@
+name: 🧠 Update GitHub Stats & Repos
+
+on:
+  schedule:
+    - cron: "0 9 * * 1"   # se ejecuta cada lunes a las 9:00 UTC
+  workflow_dispatch:       # también podrás ejecutarlo manualmente desde la pestaña "Actions"
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository content
+        uses: actions/checkout@v4
+
+      - name: Generate GitHub Metrics
+        uses: lowlighter/metrics@latest
+        with:
+          # ⚙️ CONFIGURACIÓN BÁSICA
+          token: ${{ secrets.METRICS_TOKEN }}
+          user: xavki
+          template: classic
+          base: header, activity, community, repositories, metadata
+          config_timezone: Europe/Madrid
+          plugin_languages: yes
+          plugin_stars: yes
+          plugin_repositories: 4
+          plugin_lines: yes
+          plugin_achievements: yes
+          plugin_notable: yes
+          plugin_followup: yes
+          plugin_activity: yes
+          plugin_topics: yes
