@@ -1,8 +1,13 @@
+                                                                                    
+<h1 align="center">Hi, I'm Francesc Xavier Martínez Batlle 👋</h1>
+
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1200&color=FFD700&center=true&vCenter=true&width=700&lines=Hi%2C+I'm+Xavi+Mart%C3%ADnez+%F0%9F%91%8B;Computer+Science;Desarrollador+Multiplataforma+Junior)](https://git.io/typing-svg)
+<!-- Subtítulo animado que rota entre dos frases -->
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&pause=1200&center=true&vCenter=true&width=700&color=F7D747&lines=Desarrollador+Multiplataforma+Junior;IA+Generativa)](https://git.io/typing-svg)
 
 </div>
+
 
 <!--
 **xavki/Xavki** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
