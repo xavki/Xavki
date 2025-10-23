@@ -11,6 +11,15 @@
 ![Profile views](https://komarev.com/ghpvc/?username=xavki&label=Profile%20views&color=0e75b6&style=flat)
 
 
+## <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture> About me
+- 💻 Junior Multiplatform Developer  
+- ☕ Solid foundation in **Java / Kotlin / SQL** with hands-on experience in **Android, REST APIs, and Docker**  
+- 🧠 Passionate about **Generative AI**, automation, and process improvement  
+- 🧩 Completed internships in technical support and application development  
+- 🚀 Constantly learning and building personal projects to grow as a developer  
+- 📫 Connect with me on [LinkedIn](https://www.linkedin.com/in/xavi-martinez-7bb160182/)
+<br>
+
 
 <!--
 **xavki/Xavki** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
