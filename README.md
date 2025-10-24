@@ -130,7 +130,7 @@
 <br><br>
 
 
-![Metrics](https://github.com/xavki/xavki/blob/main/github-metrics.svg)
+<!--![Metrics](https://github.com/xavki/xavki/blob/main/github-metrics.svg)-->
 
 
 
