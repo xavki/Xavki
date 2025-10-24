@@ -2,7 +2,7 @@ name: 🧠 Update GitHub Metrics
 
 on:
   schedule:
-    - cron: "0 9 * * 1"   # lunes 09:00 UTC (puedes cambiarlo si quieres diario)
+    - cron: "0 9 * * *"   # lunes 09:00 UTC (puedes cambiarlo si quieres diario)
   workflow_dispatch:
 
 jobs:
