@@ -130,6 +130,9 @@
 <br><br>
 
 
+![Metrics](https://github.com/xavki/xavki/blob/main/github-metrics.svg)
+
+
 
 
 ## 🐍 A Snake Eating my Contributions Graph
