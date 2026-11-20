@@ -1,10 +1,9 @@
-                                                                                    
 <h1 align="center">Hi, I'm Francesc Xavier Martínez Batlle 👋</h1>
 
 <div align="center">
 
 <!-- Subtítulo animado que rota entre dos frases -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&pause=1200&center=true&vCenter=true&width=700&color=F7D747&lines=Junior+Multiplataform+Developer;IA+Generative)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&pause=1200&center=true&vCenter=true&width=700&color=F7D747&lines=Junior+Multiplatform+Developer;Android+%2F+Kotlin+%7C+IA+Generativa+%26+Agentes)](https://git.io/typing-svg)
 
 </div>
 
@@ -12,20 +11,21 @@
 
 
 ## <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture> About me
-- 💻 Junior Multiplatform Developer  
-- ☕ Solid foundation in **Java / Kotlin / SQL** with hands-on experience in **Android, REST APIs, and Docker**  
-- 🧠 Passionate about **Generative AI**, automation, and process improvement  
-- 🧩 Completed internships in technical support and application development  
-- 🚀 Constantly learning and building personal projects to grow as a developer  
-- 📫 Connect with me on [LinkedIn](https://www.linkedin.com/in/xavi-martinez-7bb160182/)
+- 💻 Junior Multiplatform Developer
+- ☕ Solid foundation in **Kotlin / Java / SQL**, con experiencia práctica en **Android, REST APIs y Docker**
+- 🧠 Construyo agentes y herramientas de **IA Generativa**: desde asistentes de voz hasta orquestadores multiagente para desarrollo de software
+- 🌐 También desarrollo en **Next.js, TypeScript y Flutter** para apps web y móviles conectadas a Supabase
+- 🧩 Prácticas en soporte técnico y desarrollo de aplicaciones
+- 🚀 Aprendiendo y construyendo proyectos personales de forma constante para seguir creciendo como desarrollador
+- 📫 Conecta conmigo en [LinkedIn](https://www.linkedin.com/in/xavi-martinez-7bb160182/)
 <br>
 
 ## <picture> <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Connect-with-me.gif?raw=true" width="100px"> </picture> Connect with me
 <p align="center">
-	<a href="mailto:xavimb04@gmail.com"><img img src="https://img.shields.io/badge/gmail-%23EA4335.svg?style=plastic&logo=gmail&logoColor=white" alt="Gmail"/></a>
+	<a href="mailto:xavimb04@gmail.com"><img src="https://img.shields.io/badge/gmail-%23EA4335.svg?style=plastic&logo=gmail&logoColor=white" alt="Gmail"/></a>
 	<a href="https://github.com/xavki"><img src="https://img.shields.io/badge/github-%23181717.svg?style=plastic&logo=github&logoColor=white" alt="GitHub"/></a>
 	<a href="https://wa.me/34640606054"><img src="https://img.shields.io/badge/whatsapp-%2325D366.svg?style=plastic&logo=whatsapp&logoColor=white" alt="Whatsapp"/></a>
-	<a href="www.linkedin.com/in/xavi-martinez-dev"><img src="https://img.shields.io/badge/linkedin-%230A66C2.svg?style=plastic&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+	<a href="https://www.linkedin.com/in/xavi-martinez-7bb160182/"><img src="https://img.shields.io/badge/linkedin-%230A66C2.svg?style=plastic&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
 	<a href="https://www.instagram.com/xavi.m.b_/"><img src="https://img.shields.io/badge/instagram-%23E4405F.svg?style=plastic&logo=instagram&logoColor=white" alt="Instagram"/></a>
   <a href="https://x.com/Xavimb04" target="_blank"><img src="https://img.shields.io/badge/Twitter%20(X)-%23000000.svg?style=plastic&logo=x&logoColor=white" alt="Twitter / X"/></a>
 </p>
@@ -86,40 +86,44 @@
   </a>
 </p>
 
-<!-- Si usas Holopin, añade esto y cambia el usuario -->
-<!-- [![@xavki's Holopin board](https://holopin.io/api/user/board?user=xavki)](https://holopin.io/@xavki) -->
-
 </details>
 
 ---
 
-<details><summary><h3>📁 My Repositories</h3></summary>
+<details><summary><h3>📁 Featured Projects</h3></summary>
 
 ----
 
 <div align="center">
   <p>
 
-  <!-- 🔹 X-O-Agenda -->
-  <a href="https://github.com/xavki/X-O-Agenda">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=xavki&repo=X-O-Agenda&theme=tokyonight" alt="X-O-Agenda" />
+  <!-- 🔹 FocusFlow / DayPlan -->
+  <a href="https://github.com/xavki/focusflow">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=xavki&repo=focusflow&theme=tokyonight" alt="FocusFlow" />
   </a>
 
-  <!-- 🔹 Jocs -->
-  <a href="https://github.com/xavki/Jocs">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=xavki&repo=Jocs&theme=tokyonight" alt="Jocs" />
+  <!-- 🔹 TurnoControl -->
+  <a href="https://github.com/xavki/TurnoControl">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=xavki&repo=TurnoControl&theme=tokyonight" alt="TurnoControl" />
   </a>
 
-  <!-- 🔹 Reproductor de música -->
-  <a href="https://github.com/xavki/reproductor-de-musica">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=xavki&repo=reproductor-de-musica&theme=tokyonight" alt="Reproductor de música" />
+  <!-- 🔹 Atlas -->
+  <a href="https://github.com/xavki/Atlas">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=xavki&repo=Atlas&theme=tokyonight" alt="Atlas" />
   </a>
 
-  <!-- 🔹 Portfolio Web -->
-  <a href="https://github.com/xavki/App-de-gym.git">
-  	<img src="https://github-readme-stats.vercel.app/api/pin/?username=xavki&repo=App-de-gym&theme=tokyonight" alt="App de Gym" />
+  <!-- 🔹 Portfolio -->
+  <a href="https://github.com/xavki/portfolio">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=xavki&repo=portfolio&theme=tokyonight" alt="Portfolio" />
   </a>
 
+  </p>
+
+  <p>
+  🗓️ <b>FocusFlow / DayPlan</b> — Gestor de tareas con IA (Next.js 15, TypeScript, Flutter, Supabase, Claude API) que convierte objetivos en planes de acción. <a href="https://dayplan-murex.vercel.app">Demo</a><br/>
+  🧭 <b>AI Project Lab</b> — Orquestador multiagente (Python, MCP) con agentes Planner/Developer/Reviewer para desarrollar software con criterios de aceptación por fase. <i>(repo privado por ahora)</i><br/>
+  📅 <b>TurnoControl</b> — App Android (Kotlin, Jetpack Compose, Hilt, Room, ML Kit) para organizar turnos de trabajo, con reconocimiento OCR de horarios y 98 tests automatizados.<br/>
+  🤖 <b>Atlas</b> — Asistente personal local por voz (Python, Whisper, PyQt6, Claude/Gemini/OpenAI) con memoria persistente entre escritorio, Telegram y Discord.
   </p>
 
 </div>
@@ -130,14 +134,8 @@
 <br><br>
 
 
-<!--![Metrics](https://github.com/xavki/xavki/blob/main/github-metrics.svg)-->
-
-
-
-
 ## 🐍 A Snake Eating my Contributions Graph
-	
+
 <p align = "center">
 	<img src = "https://github.com/7oSkaaa/7oSkaaa/blob/output/github-contribution-grid-snake.svg?" alt = "Snake Game"/>
 </p>
-
