@@ -10,14 +10,18 @@
 ![Profile views](https://komarev.com/ghpvc/?username=xavki&label=Profile%20views&color=0e75b6&style=flat)
 
 
-## <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture> About me
-- 💻 Junior Multiplatform Developer
-- ☕ Solid foundation in **Kotlin / Java / SQL**, con experiencia práctica en **Android, REST APIs y Docker**
-- 🧠 Construyo agentes y herramientas de **IA Generativa**: desde asistentes de voz hasta orquestadores multiagente para desarrollo de software
-- 🌐 También desarrollo en **Next.js, TypeScript y Flutter** para apps web y móviles conectadas a Supabase
-- 🧩 Prácticas en soporte técnico y desarrollo de aplicaciones
-- 🚀 Aprendiendo y construyendo proyectos personales de forma constante para seguir creciendo como desarrollador
-- 📫 Conecta conmigo en [LinkedIn](https://www.linkedin.com/in/xavi-martinez-7bb160182/)
+## <picture><img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width="50px"></picture> About me
+
+- 💻 **Junior Software Developer | Android • Full Stack • AI**
+- 🎓 Graduado en **Desarrollo de Aplicaciones Multiplataforma (DAM)** y estudiante de **Ingeniería Informática en la UOC**.
+- 📱 Desarrollo aplicaciones Android con **Kotlin, Jetpack Compose, Room y Firebase**, aplicando buenas prácticas de arquitectura, testing y persistencia de datos.
+- 🧠 Diseño herramientas de **IA generativa, agentes autónomos y sistemas multiagente**, integrando modelos locales, APIs y automatización de procesos.
+- 🌐 Desarrollo aplicaciones web y móviles con **Python, TypeScript, Next.js, Flutter, SQL y Supabase**.
+- ⚙️ Trabajo con **Git, GitHub Actions, Docker, REST APIs y CI/CD**, prestando especial atención a la seguridad, la calidad y las pruebas automatizadas.
+- 🚀 Proyectos personales como **GymFlow, TurnoControl, AutoStudio y Job Search Assistant**, donde aplico desarrollo de software, inteligencia artificial y automatización a problemas reales.
+- 💼 Experiencia práctica en **soporte técnico y desarrollo de aplicaciones**. Actualmente busco oportunidades como **Junior Software Developer, Android Developer o AI Developer**.
+- 📫 Conecta conmigo en [LinkedIn](https://www.linkedin.com/in/xavi-martinez-7bb160182/).
+
 <br>
 
 ## <picture> <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Connect-with-me.gif?raw=true" width="100px"> </picture> Connect with me
