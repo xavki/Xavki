@@ -112,12 +112,8 @@
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=xavki&repo=Atlas&theme=tokyonight" alt="Atlas" />
   </a>
 
-  <!-- 🔹 Portfolio -->
-  <a href="https://github.com/xavki/portfolio">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=xavki&repo=portfolio&theme=tokyonight" alt="Portfolio" />
-  </a>
-
   </p>
+  <p><i>AI Project Lab no tiene tarjeta porque es un repo privado — ver descripción abajo.</i></p>
 
   <p>
   🗓️ <b>FocusFlow / DayPlan</b> — Gestor de tareas con IA (Next.js 15, TypeScript, Flutter, Supabase, Claude API) que convierte objetivos en planes de acción. <a href="https://dayplan-murex.vercel.app">Demo</a><br/>
