@@ -116,6 +116,10 @@
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=xavki&repo=Atlas&theme=tokyonight" alt="Atlas" />
   </a>
 
+<a href="https://github.com/xavki/App-de-gym">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=xavki&repo=App-de-gym&theme=tokyonight" alt="GymFlow" />
+</a>
+
   </p>
   <p><i>AI Project Lab no tiene tarjeta porque es un repo privado — ver descripción abajo.</i></p>
 
